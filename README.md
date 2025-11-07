@@ -48,4 +48,6 @@ Your final project will be evaluated on your ability to:
 
 ● Create a professional project that you can add to your portfolio and show to employers.
 
-[Exercise 3.10 Rockbuster .pdf](https://github.com/user-attachments/files/21046296/Exercise.3.10.Rockbuster.pdf)
+
+[
+](https://public.tableau.com/app/profile/umukunzi.liliane/viz/3_10Rockbusterstorybook/RockbusterStealth?publish=yes)[Rockbuster Stealth.pdf](https://github.com/user-attachments/files/23406309/Rockbuster.Stealth.pdf)
